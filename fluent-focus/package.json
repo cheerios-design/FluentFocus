@@ -17,20 +17,19 @@
   "dependencies": {
     "@prisma/client": "^6.3.0",
     "@tailwindcss/postcss": "^4",
-    "next": "16.1.6",
-    "react": "19.2.3",
-    "react-dom": "19.2.3",
-    "tailwindcss": "^4"
-  },
-  "devDependencies": {
     "@types/node": "^20.19.33",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19",
-    "babel-plugin-react-compiler": "1.0.0",
+    "next": "16.1.6",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  },
+  "devDependencies": {
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "prisma": "^6.3.0",
-    "tsx": "^4.19.0",
-    "typescript": "^5"
+    "tsx": "^4.19.0"
   }
 }
